@@ -19,7 +19,7 @@ source.include_exts = py
 version = 1.0
 
 # (list) Application requirements (Kivy and any additional dependencies)
-requirements = kivy
+requirements = python3==3.7.6,kivy,pillow,hostpython3==3.7.6
 
 # (str) Application icon (optional)
 #icon.filename = path/to/your/icon.png
